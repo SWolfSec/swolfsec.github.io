@@ -284,6 +284,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - beautiful-jekyll-theme.gemspec
+  - vendor/
 
 plugins:
   - jekyll-paginate
