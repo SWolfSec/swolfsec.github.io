@@ -10,7 +10,7 @@ The purpose of this blog is to document my public research and cover various Cyb
 
 ## Professional Roles
 
-- Staff Security Engineer, Security Operations @ [Etsy](https://www.etsy.com/)
+- Staff Security Engineer @ [Etsy](https://www.etsy.com/)
 - Senior Red Team Consultant @ [CrowdStrike](https://www.crowdstrike.com/en-us/)
 - Senior Incident Response Consultant @ [CrowdStrike](https://www.crowdstrike.com/en-us/)
 - Incident Response Consultant @ [CrowdStrike](https://www.crowdstrike.com/en-us/)
