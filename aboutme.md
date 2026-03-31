@@ -36,7 +36,7 @@ The purpose of this blog is to document my public research and cover various Cyb
 
 
 ## Education
-**Bachelors of Science in Digital Forensics** 
+**Bachelors of Science in Digital Forensics**  
 [Chestnut Hill College](https://www.chc.edu/)
-    Major: Digital Forensics 
-    Minor: Programming
+- Major: Digital Forensics
+- Minor: Programming
