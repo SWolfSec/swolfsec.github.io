@@ -17,7 +17,9 @@ AI coding assistants like _Claude Code_ and _Cursor_ store their chat histories 
 
 Regardless of HOW these AI tools work, our concerns in security come down to many of the same functional issues, unauthorized access, execution, and so on. We may need to look at these differently and there may be new considerations or nuance to understand but as of today an execution event is still an execution event. For example, claude code executes its commands using a wrapper, but its still executing. Maybe the nuance is now we are looking for a commandline embedded in a wrapper rather then strictly looking at a parent child process relationship. 
 
-The context may have changed but much has stayed the same. The hype and panic around AI in security is warranted for some issues but thinking we need to change our entire approach to security overnight is short sighted. If we approach AI tooling with a confidence of "we still understand how technology works fundamentally" and with a healthy bit of optimism of where these tools can improve our lives and workflows we will all be better off. As time goes on, it feels more and more like those thinking AI doesn't need someone capable behind the wheel were never capable themselves of doing the work they say they can do. 
+The context may have changed but much has stayed the same. The hype and panic around AI in security is warranted for some issues but thinking we need to change our entire approach to security overnight is short sighted. If we approach AI tooling with a confidence of "we still understand how technology works fundamentally" and with a healthy bit of optimism of where these tools can improve our lives and workflows we will all be better off. 
+
+See the tool here: [ai-hist](https://github.com/SWolfSec/ai-hist)
 
 ## Overview 
 
